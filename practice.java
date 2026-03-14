@@ -24,14 +24,30 @@ public class practice{
 //      Write a program to take two numbers and print:
 // Sum Difference Product Division
         Scanner sc = new Scanner(System.in);
-       int a = sc.nextInt();
-        int b = sc.nextInt();
+    //    int a = sc.nextInt();
+    //     int b = sc.nextInt();
 
-        System.out.println("Sum = " + (a + b));
-        System.out.println("Difference = " + (a - b));
-        System.out.println("Product = " + (a * b));
-        System.out.println("Division = " + (a / b));
+    //     System.out.println("Sum = " + (a + b));
+    //     System.out.println("Difference = " + (a - b));
+    //     System.out.println("Product = " + (a * b));
+    //     System.out.println("Division = " + (a / b));
+                // int n = sc.nextInt();
+            // int sum = 0;
+            // int i =1;
+            // while(i<=n){
+            //     sum = sum+i;
+            //     i++;
 
+            // }
+            // System.out.println("sum is " +sum);
 
+            int n = sc.nextInt();
+        int i = 1;
+
+        while(i <= 10){
+            System.out.println( (n*i));
+            i++;
+
+        }
     }
 }
