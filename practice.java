@@ -2,9 +2,8 @@
 import java.util.Scanner;
 
 // Write a Java program that declares variables for:
-// Name (String)
-// Age (int)
-
+// Height (float)
+// IsStudent (boolean)
 
 public class practice{
     public static void main(String[] args) {
