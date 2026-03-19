@@ -19,7 +19,8 @@ public class practice{
      
 
 
-
+//      Write a program to take two numbers and print:
+// Sum Difference Product Division
         Scanner sc = new Scanner(System.in);
     //    int a = sc.nextInt();
     //     int b = sc.nextInt();
