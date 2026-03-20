@@ -39,13 +39,6 @@ public class practice{
             // }
             // System.out.println("sum is " +sum);
 
-            int n = sc.nextInt();
-        int i = 1;
-
-        while(i <= 10){
-            System.out.println( (n*i));
-            i++;
-
-        }
+           
     }
 }
